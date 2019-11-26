@@ -1,0 +1,9 @@
+ Goal: 
+ - You have one month (31 days) to earn as many cake points (CP) as you can get! To earn cake points you must bake cakes! 
+ -
+ - Rules:
+ - The more cakes you bake, the more cake points you will score. 
+ - You can not bake a cake without a recipe, which you can purchase at the market.
+ - You start with no ingredients in your pantry, but ingredients can be purchased at the market.
+ - Money can be earned (or lost) by rolling a dice once a day! Your luck will determine the money you earn or lose - in a day!
+ - Player starts with $0 -
